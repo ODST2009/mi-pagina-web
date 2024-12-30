@@ -1,0 +1,41 @@
+
+*{border: solid;}
+
+h1{
+    margin-left: 450px;
+    font-size: 500%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+}
+.header_1{
+    color: blue;
+}
+.header_2{
+    color: red;
+}
+.item{
+    position: relative;
+}
+.item{
+    position: absolute;
+    left:65%;
+    top:23%;
+}
+.informacion{
+    margin-right: 525px;
+}
+body{
+    background-color: rgb(80, 80, 80);
+}
+.characters{
+    color: rgb(203, 203, 203);
+    position: relative;
+}
+.characters{
+    position: absolute;
+    top: 85%;
+}
+.all_characters{
+    position: absolute;
+    top: 115%;
+    left: 40%;
+}
